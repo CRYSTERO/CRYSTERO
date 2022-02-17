@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @CRYSTERO
+- 👀 I’m interested in FAKE computer science
+- 🌱 I’m currently learning JavaScript
+- 📫 How to reach me thomaslong2134@outlook.com
